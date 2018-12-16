@@ -1,1 +1,1 @@
-# Studies.and.Researches
+# 08. Complete gaming package

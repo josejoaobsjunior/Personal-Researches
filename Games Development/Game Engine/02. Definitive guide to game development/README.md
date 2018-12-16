@@ -1,1 +1,1 @@
-# Studies.and.Researches
+# 02. Definitive guide to game development

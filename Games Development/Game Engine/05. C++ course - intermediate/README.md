@@ -1,1 +1,1 @@
-# Studies.and.Researches
+# 05. C++ course - intermediate
